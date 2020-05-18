@@ -1,0 +1,23 @@
+{
+  "name": "next-certifiqueplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export && gh-pages -d out -t true",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-jsx": "^3.3.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
