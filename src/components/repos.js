@@ -1,8 +1,8 @@
 import styled from 'styled-jsx/css'
 
-export const linkRFB = "https://pdfs-docs.s3-sa-east-1.amazonaws.com/DPN+RFB.pdf"
+export const linkRFB = "https://publico-frozen-springs.s3.us-east-2.amazonaws.com/rfb.pdf"
 
-export const linkCD = "https://pdfs-docs.s3-sa-east-1.amazonaws.com/DPN+CD.pdf"
+export const linkCD = "https://publico-frozen-springs.s3.us-east-2.amazonaws.com/cd.pdf"
 
 export const Repos = () => {
 
